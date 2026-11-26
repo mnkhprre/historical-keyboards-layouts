@@ -2,7 +2,7 @@
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by Ukelele version 359 on 2022-08-12 at 16:04 (GMT+3)-->
 <!--Last edited by Ukelele version 359 on 2023-11-29 at 23:31 (GMT+3)-->
-<keyboard group="126" id="-8808" name="ottoman" maxout="2">
+<keyboard group="126" id="-8808" name="Ottoman (Latin)" maxout="2">
     <layouts>
         <layout first="0" last="17" mapSet="ANSI" modifiers="Modifiers"/>
         <layout first="18" last="18" mapSet="JIS" modifiers="Modifiers"/>

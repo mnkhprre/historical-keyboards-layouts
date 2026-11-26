@@ -2,7 +2,7 @@
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by Ukelele version 2.2.8 on 2015-05-01 at 17:27 (EDT)-->
 <!--Last edited by Ukelele version 359 on 2023-12-22 at 16:41 (GMT+3)-->
-<keyboard group="126" id="-16503" name="Transliteration" maxout="2">
+<keyboard group="126" id="-16503" name="Bronze Age Transliteration" maxout="2">
     <layouts>
         <layout first="0" last="17" mapSet="16c" modifiers="f4"/>
         <layout first="18" last="18" mapSet="984" modifiers="f4"/>

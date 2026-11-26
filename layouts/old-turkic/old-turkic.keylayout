@@ -2,7 +2,7 @@
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by Ukelele version 346 on 2021-10-13 at 16:28 (GMT+3)-->
 <!--Last edited by Ukelele version 346 on 2021-10-13 at 17:20 (GMT+3)-->
-<keyboard group="126" id="-17169" name="old-turkic" maxout="1">
+<keyboard group="126" id="-17169" name="Old Turkic" maxout="1">
     <layouts>
         <layout first="0" last="17" mapSet="ANSI" modifiers="Modifiers"/>
         <layout first="18" last="18" mapSet="JIS" modifiers="Modifiers"/>
