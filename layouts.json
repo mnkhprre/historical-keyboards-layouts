@@ -1,0 +1,16 @@
+{
+  "bundle": {
+    "name": "Historical Keyboards",
+    "file": "HistoricalKeyboards.bundle",
+    "identifier": "io.github.mnkhprre.historical-keyboards",
+    "version": "1.0.0"
+  },
+  "layouts": [
+    { "dir": "old-turkic",          "language": "otk",      "tr": "Eski Türk (Orhun)" },
+    { "dir": "old-persian",         "language": "peo",      "tr": "Eski Farsça" },
+    { "dir": "ottoman-latin",       "language": "ota-Latn", "tr": "Osmanlıca (Latin transkripsiyon)" },
+    { "dir": "bronze-age-translit", "language": "akk-Latn", "tr": "Tunç Çağı Transliterasyon" },
+    { "dir": "nesili",              "language": "hit",      "tr": "Nesili (Hititçe)" },
+    { "dir": "morse-tr",            "language": "tr",       "tr": "Mors (Türkçe Q)" }
+  ]
+}
